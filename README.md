@@ -4,6 +4,11 @@ TF-IDF-based car recommendation system powered by **cosine similarity**. The mod
 
 🔍 #AI #RecommendationSystem #MachineLearning #DataScience #Innovation  
 
+Work Info:
+
+Used Python libraries: TF-IDF, Cosine Similarity, Pandas, and Sklearn.
+Focused on data processing, feature extraction, and recommendation logic.
+
 Attachments:  
 - Workflow Flowchart Image  
 - Heatmaps for Cosine Similarity (Dataset 1 and Dataset 2)  
